@@ -1,5 +1,5 @@
 # rta2026-fmcg
-fmcg analiza danych w czasie rzeczywistym 
+fmcg analiza danych w czasie rzeczywistym -
 Jakub Rybka
 Patrycja Majchrzak 
 Kacper Głąbowski
